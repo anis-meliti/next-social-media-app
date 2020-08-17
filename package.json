@@ -1,0 +1,9 @@
+{
+  "name": "social-media-app-next",
+  "version": "1.0.0",
+  "description": "Social Media application built using Nextjs express mongodb and passportjs for the auth",
+  "main": "server.js",
+  "repository": "https://github.com/anis-meliti/next-social-media-app.git",
+  "author": "Anis Mell",
+  "license": "MIT"
+}
